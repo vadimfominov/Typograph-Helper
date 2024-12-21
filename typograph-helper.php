@@ -10,6 +10,10 @@ License: GPL2
 Text Domain: typograph-helper
 */
 
+// Предотвращаем прямой доступ к файлу
+if (!defined('ABSPATH')) {
+	exit;
+}
 
 // Регистрация настроек
 function typography_plugin_settings() {

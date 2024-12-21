@@ -9,36 +9,36 @@ Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Automatic text typography processing with adding non-breaking spaces after prepositions.
+Автоматическая типографская обработка текста с добавлением неразрывных пробелов после предлогов.
 
 == Description ==
 
-The plugin helps improve text typography by automatically adding non-breaking spaces after prepositions.
+Плагин помогает улучшить типографику текста, автоматически добавляя неразрывные пробелы после предлогов. 
 
-Features:
-- Configurable list of prepositions
-- Selection of HTML elements for processing
-- Flexible configuration
+Возможности:
+- Настройка списка предлогов
+- Выбор HTML-элементов для обработки
+- Гибкая конфигурация
 
 == Installation ==
 
-1. Upload the plugin through the admin panel or via FTP
-2. Activate the plugin
-3. Go to plugin settings
+1. Загрузите плагин через панель администратора или через FTP
+2. Активируйте плагин
+3. Перейдите в настройки плагина
 
 == Frequently Asked Questions ==
 
-= How to configure the list of prepositions? =
-You can edit the list of prepositions in the plugin settings.
+= Как настроить список предлогов? =
+В настройках плагина можно редактировать список предлогов.
 
-= Which HTML elements are supported? =
-You can choose any HTML elements for processing.
+= Какие HTML-элементы поддерживаются? =
+Можно выбрать любые HTML-элементы для обработки.
 
 == Screenshots ==
 
-1. Plugin settings page
+1. Страница настроек плагина
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Первоначальный релиз
