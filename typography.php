@@ -1,9 +1,13 @@
 <?php
 /*
-Plugin Name: Типографский плагин
-Description: Добавляет неразрывные пробелы после предлогов
-Version: 1.0
+Plugin Name: Typograph Helper
+Plugin URI: https://github.com/vadimfominov/Typograph-Helper
+Description: Автоматическая типографская обработка текста с добавлением неразрывных пробелов после предлогов
+Version: 1.0.0
 Author: Vadim Fominov
+Author URI: https://t.me/vadimfominov
+License: GPL2
+Text Domain: typograph-helper
 */
 
 

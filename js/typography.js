@@ -1,6 +1,6 @@
 window.addEventListener('load', function() {
 	// Используем элементы из настроек, если они есть
-	const elementSelectors = typographySettings.elements || ['h2', 'h4', 'p', 'span'];
+	const elementSelectors = typographySettings.elements || ['h1', 'h2', 'h3', 'h4', 'p', 'span'];
 	
 	// Создаем селектор для querySelectorAll
 	const selector = elementSelectors.join(', ');
